@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+dimport React, { useState, useEffect } from 'react';
 import { Check, X, Trophy, Zap, Clock, Heart, Users, MessageSquare } from 'lucide-react';
 
 // Mezcla un array usando Fisher-Yates
